@@ -16,3 +16,4 @@
         <p><?php echo __('Найменша поточна ставка: ', 'maxbstheme') . do_shortcode('[min_rate]')  ?></p>
     </div>
 </div>
+

@@ -37,3 +37,4 @@
     <p><?php _e('На данний момент активних тендерів немає', 'maxbstheme'); ?></p>
 <?php endif; ?>
 <?php get_footer(); ?>
+

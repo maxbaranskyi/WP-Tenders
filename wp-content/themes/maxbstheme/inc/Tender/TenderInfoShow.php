@@ -64,3 +64,4 @@ class TenderInfoShow
         return $this->timePostFormat($date_end);
     }
 }
+
